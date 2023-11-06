@@ -1,10 +1,1 @@
-# TRPO_2023
-<p style="background-color:red;">
-  Это встроенный <b>HTML</b> <br/>
-    Экранировать не нужно:<br/>
-      < Знак меньше &lt; <br/>
-      > Знак больше &gt; <br/>
-      ' Апостроф &#039; <br/>
-      " Кавычки &quot; <br/>
-      & Амперсанд &amp; <br/>
-</p>
+<img src="header.svg" width="800" height="400">
