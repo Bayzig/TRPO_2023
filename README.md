@@ -1,5 +1,5 @@
 # TRPO_2023
-<p>
+<p style="background-color:red;">
   Это встроенный <b>HTML</b> <br/>
     Экранировать не нужно:<br/>
       < Знак меньше &lt; <br/>
