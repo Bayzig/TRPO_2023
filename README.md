@@ -2,6 +2,7 @@
 <div style="width: 100%;">
     <a href="#заголовок-2">
         <img src="hello.svg" width="800" height="400">
+        <img src="hello.svg" width="800" height="400">
     </a>
 </div>
 ## Заголовок 1
