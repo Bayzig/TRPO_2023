@@ -1,6 +1,9 @@
 # Лабораторная по ТРПО
-<img src="hello.svg" width="800" height="400">
-
+<div style="width: 100%;">
+    <a href="#Заголовок 1">
+        <img src="hello.svg" width="800" height="400">
+  </a>
+</div>
 ## Заголовок 1
 Абзацы автоматически преобразуются в параграфы.
 
