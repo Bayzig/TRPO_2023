@@ -3,7 +3,9 @@
     <img src="hello.svg" width="800" height="400">
 </div>
 
-<button name="button">Press me</button>
+<p>
+    <button name="button">Press me</button>
+</p>
 ## Заголовок 1
 Абзацы автоматически преобразуются в параграфы.
 
