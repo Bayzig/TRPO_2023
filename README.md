@@ -3,9 +3,7 @@
     <img src="hello.svg" width="800" height="400">
 </div>
 
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<button name="button">Press me</button>
 ## Заголовок 1
 Абзацы автоматически преобразуются в параграфы.
 
