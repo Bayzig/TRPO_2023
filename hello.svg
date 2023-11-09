@@ -36,6 +36,9 @@
             animation: none;
           }
         }
+        h1{
+        text-align: center;
+        }
       </style>
 
       <div class="container">
