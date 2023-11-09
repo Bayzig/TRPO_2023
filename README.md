@@ -1,6 +1,6 @@
 # Лабораторная по ТРПО
 <div style="width: 100%;">
-    <a href="#Заголовок 1">
+    <a href="#заголовок-2">
         <img src="hello.svg" width="800" height="400">
   </a>
 </div>
