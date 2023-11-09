@@ -4,7 +4,7 @@
 </div>
 
 <p>
-    <button name="button">Press me</button>
+    <a name="button">Press me</a>
 </p>
 ## Заголовок 1
 Абзацы автоматически преобразуются в параграфы.
