@@ -6,6 +6,7 @@
 ## Меню
 1. Нахождения корней
 1. Нахождения корней
+```C#
    quadraticEquations1.a = Convert.ToDouble(A.Text);
    quadraticEquations1.b = Convert.ToDouble(B.Text);
    quadraticEquations1.c = Convert.ToDouble(C.Text);
@@ -25,3 +26,4 @@
                 return D >= 0?((-b - Math.Sqrt(D)) / (2 * a)).ToString(): $"{-b / (2 * a)} - {Math.Sqrt(-D) / (2 * a)}i";
             }
         }
+```
