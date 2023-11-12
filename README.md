@@ -1,4 +1,4 @@
-# Лабораторная по ТРПО
+# Как пользоваться программой
 <div style="width: 100%;">
     <img src="header.svg" width="800" height="300">
 </div>
