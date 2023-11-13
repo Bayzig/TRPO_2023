@@ -30,6 +30,8 @@
 
 <a href="https://www.youtube.com/watch?v=a3IVdU_gung" target="_blank"> <img src="https://i.ytimg.com/vi/a3IVdU_gung/maxresdefault.jpg" alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="360" height="180" border="10" /></a>
 
+[ссылка](https://example.com "Всплывающая подсказка")
+
 Примеры ввода и результаты
 a|b|c|x1|x2
 :-:|:-:|:-:|:-:|:-:
