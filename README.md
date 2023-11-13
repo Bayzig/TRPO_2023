@@ -30,7 +30,7 @@
 
 <a href="https://www.youtube.com/watch?v=a3IVdU_gung" target="_blank"> <img src="https://i.ytimg.com/vi/a3IVdU_gung/maxresdefault.jpg" alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="360" height="180" border="10" /></a>
 
-[ссылка](https://example.com "Всплывающая подсказка")
+[Квадратное уравнение](https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5 "Корни")
 
 Примеры ввода и результаты
 a|b|c|x1|x2
