@@ -25,6 +25,7 @@
 
 Формула кадратного уравнения `ax^2+bx+c=0`
 >a,b,c - аргументы функций, x - это корень или корни которые ищем
+
 <a href="https://www.youtube.com/watch?v=a3IVdU_gung" target="_blank"> <img src="https://i.ytimg.com/vi/a3IVdU_gung/maxresdefault.jpg" alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="360" height="180" border="10" /></a>
 
 Примеры ввода и результаты
