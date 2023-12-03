@@ -48,7 +48,6 @@ a|b|c|x1|x2
 
 Записывается в виде x1,x2 = [действительная часть] + [мнимая часть]i
 ## Код программы
-========================
 ```C#
    int a = Convert.ToDouble(A.Text);
    int b = Convert.ToDouble(B.Text);
